@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Customer Satisfaction Report "
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "08cb0678-82d7-49ae-b5fa-f8868e5e6f2d"
+  }
+}
